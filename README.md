@@ -1,1 +1,1 @@
-#Solution for Hackerank Mark n Toy
+# Solution for Hackerank Mark n Toy
